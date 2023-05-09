@@ -1,2 +1,2 @@
-# jumiaclone.github.io
+# Mpesa Intergration
 "# Mpesa-nodejs-intergration" 
